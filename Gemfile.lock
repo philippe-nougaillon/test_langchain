@@ -411,6 +411,7 @@ DEPENDENCIES
   jbuilder
   kamal
   langchainrb (~> 0.19.5)
+  nokogiri (~> 1.18)
   pg (~> 1.1)
   pgvector (~> 0.3.2)
   propshaft
