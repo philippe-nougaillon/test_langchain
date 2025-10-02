@@ -327,6 +327,7 @@ GEM
       websocket (~> 1.0)
     sequel (5.96.0)
       bigdecimal
+    singleton (0.3.0)
     solid_cable (3.0.12)
       actioncable (>= 7.2)
       activejob (>= 7.2)
@@ -421,6 +422,7 @@ DEPENDENCIES
   ruby-openai (~> 8.3)
   selenium-webdriver
   sequel (~> 5.96)
+  singleton (~> 0.3.0)
   solid_cable
   solid_cache
   solid_queue

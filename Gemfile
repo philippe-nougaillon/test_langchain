@@ -75,3 +75,5 @@ gem "pgvector", "~> 0.3.2"
 gem "sequel", "~> 5.96"
 
 gem "nokogiri", "~> 1.18"
+
+gem "singleton", "~> 0.3.0"
