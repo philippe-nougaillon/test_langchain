@@ -77,3 +77,5 @@ gem "sequel", "~> 5.96"
 gem "nokogiri", "~> 1.18"
 
 gem "singleton", "~> 0.3.0"
+
+gem "hotwire-spark", "~> 0.1.13", group: :development
