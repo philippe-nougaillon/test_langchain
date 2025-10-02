@@ -72,7 +72,7 @@ gem "ruby-openai", "~> 8.3"
 
 gem "pgvector", "~> 0.3.2"
 
-gem "sequel", "~> 5.96"
+gem "sequel", "~> 5.97"
 
 gem "nokogiri", "~> 1.18"
 
