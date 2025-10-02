@@ -1,5 +1,6 @@
 class LangchainClient
   include Singleton
+
   attr_accessor :vector_search
 
   def initialize
